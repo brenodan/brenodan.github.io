@@ -1,0 +1,224 @@
+[
+    {
+        "authors": [
+            "Shibbir Ahmed",
+            "Sayem Mohammad Imtiaz",
+            "Samantha Syeda Khairunnesa",
+            "Breno Dantas Cruz",
+            "Hridesh Rajan"
+        ],
+        "title": "Design by Contract for Deep Learning APIs",
+        "link": "https://dl.acm.org/doi/pdf/10.1145/3611643.3616247",
+        "venue": "ESEC/FSE 2023",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Yin Liu",
+            "Breno Dantas Cruz",
+            "Eli Tilevich"
+        ],
+        "title": "Trusted and Privacy-Preserving Sensor Data Onloading",
+        "link": "https://www.sciencedirect.com/science/article/am/pii/S0140366423001421",
+        "venue": "Computer Communications 2023",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Sayem Mohammad Imtiaz",
+            "Fraol Batole",
+            "Astha Singh",
+            "Rangeet Pan",
+            "Breno Dantas Cruz",
+            "Hridesh Rajan"
+        ],
+        "title": "Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement",
+        "link": "https://arxiv.org/abs/2212.05970",
+        "venue": "ICSE 2023",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Shibbir Ahmed",
+            "Mohammad Wardat",
+            "Hamid Bagheri",
+            "Breno Dantas Cruz",
+            "Hridesh Rajan"
+        ],
+        "title": "Characterizing Bugs in Python and R Data Analytics Programs",
+        "link": "https://arxiv.org/abs/2306.08632",
+        "venue": "arXiv preprint 2023",
+        "status": ""
+    },
+    {
+        "authors": [
+            "Mohammad Wardat",
+            "Breno Dantas Cruz",
+            "Wei Le",
+            "Hridesh Rajan"
+        ],
+        "title": "An Effective Data-Driven Approach for Localizing Deep Learning Faults",
+        "link": "https://arxiv.org/abs/2307.08947",
+        "venue": "arXiv preprint 2023",
+        "status": ""
+    },
+    {
+        "authors": [
+            "Mohammad Wardat",
+            "Breno Dantas Cruz",
+            "Wei Le",
+            "Hridesh Rajan"
+        ],
+        "title": "DeepDiagnosis: Automatically Diagnosing Faults and Recommending Actionable Fixes in Deep Learning Programs",
+        "link": "https://design.cs.iastate.edu/papers/ICSE-22c/deepdiagnosis.pdf",
+        "venue": "ICSE 2022",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Yin Liu",
+            "Breno Dantas Cruz",
+            "Eli Tilevich"
+        ],
+        "title": "Secure and Flexible Message-Based Communication for Mobile Apps Within and Across Devices",
+        "link": "https://people.cs.vt.edu/tilevich/papers/HTPD_Journal.pdf",
+        "venue": "The Journal of Systems and Software 2022",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Rangeet Pan",
+            "Sumon Biswas",
+            "Mohna Chakraborty",
+            "Breno Dantas Cruz",
+            "Hridesh Rajan"
+        ],
+        "title": "An Empirical Study on the Bugs Found while Reusing Pre-trained Natural Language Processing Models",
+        "link": "https://arxiv.org/abs/2212.00105",
+        "venue": "arXiv preprint 2022",
+        "status": ""
+    },
+    {
+        "authors": [
+            "Yin Liu",
+            "Breno Dantas Cruz",
+            "Eli Tilevich"
+        ],
+        "title": "Privacy-Preserving Sharing of Mobile Sensor Data",
+        "link": "https://people.cs.vt.edu/tilevich/papers/GoBetween.pdf",
+        "venue": "MobiCASE 2021",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Manish Pandey",
+            "Breno Dantas Cruz",
+            "Minh Le",
+            "Young-Woo Kwon",
+            "Eli Tilevich"
+        ],
+        "title": "Here, There, Anywhere: Profiling-Driven Services to Tame the Heterogeneity of Edge Applications",
+        "link": "https://people.cs.vt.edu/tilevich/papers/SMDS2021.pdf",
+        "venue": "IEEE SMDS 2021",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Yin Liu",
+            "Breno Dantas Cruz",
+            "Eli Tilevich"
+        ],
+        "title": "HTPD: Secure and Flexible Message-Based Communication for Mobile Apps",
+        "link": "https://people.cs.vt.edu/tilevich/papers/SecureComm2021.pdf",
+        "venue": "SecureComm 2021",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz"
+        ],
+        "title": "Promoting Systematic Practices for Designing and Developing Edge Computing Applications via Middleware Abstractions and Performance Estimation",
+        "link": "http://hdl.handle.net/10919/103010",
+        "venue": "Ph.D. Dissertation, Virginia Tech, 2021",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Arnab K. Paul",
+            "Zheng Song",
+            "Eli Tilevich"
+        ],
+        "title": "STARGAZER: A Deep Learning Approach for Estimating the Performance of Edge-Based Clustering Applications",
+        "link": "http://people.cs.vt.edu/~bdantasc/papers/stargazer.pdf",
+        "venue": "IEEE SMDS 2020",
+        "note": "YESC Award",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Junjie Cheng",
+            "Zheng Song",
+            "Eli Tilevich"
+        ],
+        "title": "Understanding the Potential of Edge-Based Participatory Sensing: an Experimental Study",
+        "link": "http://people.cs.vt.edu/~bdantasc/papers/sensing_vtc.pdf",
+        "venue": "VTC 2020",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Kibur Girum",
+            "Graham Wobig",
+            "Eli Tilevich"
+        ],
+        "title": "Compiler Tools for Distributed Computing",
+        "link": "#",
+        "venue": "S2ERC 2018",
+        "status": "poster"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz"
+        ],
+        "title": "Programming Support for Data Intensive Distributed Mobile Applications at the Edge",
+        "link": "http://people.cs.vt.edu/~bdantasc/papers/mobilesoftsrc18.pdf",
+        "venue": "MOBILESoft 2018",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Eli Tilevich"
+        ],
+        "title": "Intent to Share: Enhancing Android Inter-Component Communication for Distributed Devices",
+        "link": "http://people.cs.vt.edu/~tilevich/papers/ricci-mobilesoft18.pdf",
+        "venue": "MOBILESoft 2018",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Bargav Jayaraman",
+            "Anurag Dwarakanath",
+            "Collin McMillan"
+        ],
+        "title": "Detecting Vague Words & Phrases in Requirements Documents in a Multilingual Environment",
+        "link": "https://www3.nd.edu/~cmc/papers/cruz_re_indus17.pdf",
+        "venue": "RE 2017",
+        "status": "published"
+    },
+    {
+        "authors": [
+            "Breno Dantas Cruz",
+            "Paul W. McBurney",
+            "Collin McMillan"
+        ],
+        "title": "TraceLab Components for Reproducing Source Code Summarization Experiments",
+        "link": "https://github.com/researchart/icsme16/blob/master/submissions/cmcmil/Cruz_TracelabSummaries.pdf",
+        "venue": "ICSME 2016",
+        "status": "published"
+    }
+]
